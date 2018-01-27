@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>All Times</item>
+        <item>Last 1 year</item>
+        <item>Last 3 mounth</item>
+        <item>Last 6 mounth</item>
+    </string-array>
+</resources>
